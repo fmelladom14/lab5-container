@@ -20,7 +20,7 @@ int main()
     string s = "";
     string s_last = "";
 // Modifica este valor para definir la longitud de los k-mers
-    int len_str = 1;
+    int len_str = 13;
     bool change_next;
 
     for (int i=0; i<len_str; i++)

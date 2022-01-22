@@ -36,3 +36,37 @@ Finish!
 real	0m11,465s
 user	0m11,450s
 sys	0m0,001s
+
+
+EVALUACIÓN USANDO LA IMAGEN DE DE SINGULARITY
+
+Ejecucion de los programas de Python
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	1m32,254s
+user	1m31,874s
+sys	0m0,190s
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	6m11,190s
+user	6m10,344s
+sys	0m0,179s
+Ejecución de los programas de C++
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	0m3,000s
+user	0m2,823s
+sys	0m0,131s
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	0m11,176s
+user	0m10,996s
+sys	0m0,124s
